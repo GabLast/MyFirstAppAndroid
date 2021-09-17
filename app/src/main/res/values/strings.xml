@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="genero">Género:</string>
+    <string name="fechaNaci">Fecha de Nacimiento:</string>
+    <string name="hintNombre">Digite su nombre:</string>
+    <string name="hintapellido">Digite su apellido:</string>
+    <string name="send">Enviar</string>
+    <string name="clear">Limpiar</string>
+    <string name="programar">¿Le gusta programar?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="lenguaje">Lenguaje:</string>
+    <string name="java">Java</string>
+    <string name="js">JS</string>
+    <string name="python">Python</string>
+    <string name="go">Go Lang</string>
+    <string name="csharp">C #</string>
+    <string name="c">C / C++</string>
+    <string name="there_s_no_information_to_display">There is no information to display</string>
+    <!--    <string-array name="genders">-->
+<!--        <item>Seleccione</item>-->
+<!--        <item>Femenino</item>-->
+<!--        <item>Masculino</item>-->
+<!--        <item>Otro</item>-->
+<!--    </string-array>-->
+</resources>

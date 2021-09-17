@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- Here you put the rest of your current view-->
+<androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".DisplayInfo">
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="500dp" android:id="@+id/displayinfo"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp" android:textSize="33dp"
+            android:hint="@string/there_s_no_information_to_display"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp" android:fontFamily="sans-serif-medium"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
